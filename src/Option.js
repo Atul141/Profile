@@ -7,8 +7,8 @@ class Option extends Component{
     render(){
         return(
             <div className="option">
-                <Profile/>
-                <Buttons/>
+                <Profile />
+                <Buttons changeCurrentContent={this.props.changeCurrentContent.bind(this)} />
             </div>
 );
 }
