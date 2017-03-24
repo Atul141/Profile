@@ -13,56 +13,70 @@ class SkillSet extends Component{
                                         emptyStarColor={"rgb(195,195,195)"}
                                         value={3.5}
                                     />
+                                  <br></br>
 
-            <img src={require('../public/Spring.png')} alt={"java"} className="skill-image"/>
+            <img src={require('../public/spring.jpg')} alt={"Spring"} className="skill-image"/>
             <StarRatingComponent className="star-rating"
-                                        size={40}
-                                        editing={false}
-                                        emptyStarColor={"rgb(195,195,195)"}
-                                        value={3.5}
+                                          size={40}
+                                          editing={false}
+                                          emptyStarColor={"rgb(195,195,195)"}
+                                          value={3.5}
                                     />
-            <img src={require('../public/js.png')} alt={"java"} className="skill-image"/>
+                                                                      <br></br>
+
+            <img src={require('../public/javascript.jpg')} alt={"Spring"} className="skill-image"/>
             <StarRatingComponent className="star-rating"
-                                        size={40}
-                                        editing={false}
-                                        emptyStarColor={"rgb(195,195,195)"}
-                                        value={3.5}
+                                          size={40}
+                                          editing={false}
+                                          emptyStarColor={"rgb(195,195,195)"}
+                                          value={3.5}
                                     />
-             <img src={require('../public/React.jpg')} alt={"java"} className="skill-image"/>
+                                                                      <br></br>
+
+            <img src={require('../public/React.jpg')} alt={"Spring"} className="skill-image"/>
             <StarRatingComponent className="star-rating"
-                                        size={40}
-                                        editing={false}
-                                        emptyStarColor={"rgb(195,195,195)"}
-                                        value={3.5}
+                                          size={40}
+                                          editing={false}
+                                          emptyStarColor={"rgb(195,195,195)"}
+                                          value={3.5}
                                     />
-             <img src={require('../public/html.jpg')} alt={"java"} className="skill-image"/>
+                                                                      <br></br>
+
+            <img src={require('../public/html.jpg')} alt={"Spring"} className="skill-image"/>
             <StarRatingComponent className="star-rating"
-                                        size={40}
-                                        editing={false}
-                                        emptyStarColor={"rgb(195,195,195)"}
-                                        value={3.5}
+                                          size={40}
+                                          editing={false}
+                                          emptyStarColor={"rgb(195,195,195)"}
+                                          value={3.5}
                                     />
-            <img src={require('../public/css.jpg')} alt={"java"} className="skill-image"/>
+                                                                      <br></br>
+
+            <img src={require('../public/css.jpg')} alt={"Spring"} className="skill-image"/>
             <StarRatingComponent className="star-rating"
-                                        size={40}
-                                        editing={false}
-                                        emptyStarColor={"rgb(195,195,195)"}
-                                        value={3.5}
+                                          size={40}
+                                          editing={false}
+                                          emptyStarColor={"rgb(195,195,195)"}
+                                          value={3.5}
                                     />
-            <img src={require('../public/heroku.jpg')} alt={"java"} className="skill-image"/>
+                                                                      <br></br>
+
+             <img src={require('../public/heroku.jpg')} alt={"Spring"} className="skill-image"/>
             <StarRatingComponent className="star-rating"
-                                        size={40}
-                                        editing={false}
-                                        emptyStarColor={"rgb(195,195,195)"}
-                                        value={3.5}
+                                          size={40}
+                                          editing={false}
+                                          emptyStarColor={"rgb(195,195,195)"}
+                                          value={3.5}
                                     />
-            <img src={require('../public/postgresSql.jpg')} alt={"java"} className="skill-image"/>
+                                                                      <br></br>
+
+             <img src={require('../public/postgresql.jpg')} alt={"Spring"} className="skill-image"/>
             <StarRatingComponent className="star-rating"
-                                        size={40}
-                                        editing={false}
-                                        emptyStarColor={"rgb(195,195,195)"}
-                                        value={3.5}
+                                          size={40}
+                                          editing={false}
+                                          emptyStarColor={"rgb(195,195,195)"}
+                                          value={3.5}
                                     />
+
         </div>
         );
     }
