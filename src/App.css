@@ -1,5 +1,5 @@
 .App {
-  text-align: center;
+  align: center;
 }
 
 .App-logo {
@@ -47,7 +47,8 @@ background-color:rgb(255, 255, 255);
 
 .profile
 {
-height:40%;
+margin-left: 175px;
+    margin-top: 65px;
 }
 .profile-image
    {
@@ -87,9 +88,22 @@ font-color:red;
 .contact-image{
      height: 30px;
      width: 60px;
-     margin-left:30%;
+     margin-left: 200px;
 }
-.contact-text:
+.heading{
+    margin-left:200px;
+    margin-top:7%;
+    font-size:27px;
+}
+.App .contact-text:
 {
 font-size:40px;
+  text-align: center;
+
+}
+
+.contact-info{
+    font-size:24px;
+    margin-left:2%;
+
 }
